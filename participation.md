@@ -30,6 +30,7 @@ more than one point per category. There is a maximum of 5 points each week.
 - Week 1
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
+	+ Introduced myself to Sophia!
 - Week 2
 - Week 3
 - Week 4
