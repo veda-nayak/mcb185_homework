@@ -1,15 +1,16 @@
-# My favorite ice cream and gelato flavors
+# My favorite ice cream and gelato flavors #
 
-## Ice Creams
+## Ice Creams ##
 + Mint chocolate chip
 + Moose tracks
 
-## Gelato
+## Gelato ##
 + Stratachella
 + Pistachio
 
-# Fun things you can do with markdown!
+# Fun things you can do with markdown! #
 _italisize_
+
 **BOLD**
 
 ```
