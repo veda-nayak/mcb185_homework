@@ -7,3 +7,11 @@
 ## Gelato
 + Stratachella
 + Pistachio
+
+# Fun things you can do with markdown!
+_italisize_
+**BOLD**
+
+```
+fake(code)
+```
