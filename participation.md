@@ -33,6 +33,8 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Introduced myself to Sophia!
 - Week 2
 	+ Attended class on Tuesday
+	+ Attended class on Thursday
+	+ I met Lauren and DQ
 - Week 3
 - Week 4
 - Week 5
