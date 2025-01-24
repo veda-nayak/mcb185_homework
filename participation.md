@@ -40,6 +40,7 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ I did an assessmemt
 	+ Attended class on Thursday
 	+ I met someone new! 
+	+ I asked my friend a question about "\n"
 - Week 4
 - Week 5
 - Week 6
