@@ -71,4 +71,21 @@ def pythagoras(a, b):
 pythagoras(3, 4)
 
 # STRINGS
-print("String")
+print("STRING")
+
+
+# SORTING
+print("SORTING")
+
+print(ord('A'))
+print(ord('7'))
+print(ord(','))
+print(ord('>'))
+
+print(10 ** -3.2)
+print(10 ** -2.2)
+print(10 ** -1.1)
+
+# 65 - 33 = 32 --> 10 ** -3.2
+# 55 - 33 = 22 --> 10 ** -2.2
+# 44 - 33 = 11 --> 10 ** -1.1
