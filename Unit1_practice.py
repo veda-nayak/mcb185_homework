@@ -66,3 +66,18 @@ def concentration(x): print("Your DNA concentration is:", 50*x)
 concentration(20)
 
 # More practice
+
+# Assessment Example
+
+def comp(nt):
+    if nt == 'A': print('T')
+    elif nt == 'T': print('A')
+    elif nt == 'C': print('G')
+    elif nt == 'G': print('C')
+    else: print("None")
+
+comp('A')
+comp('T')
+comp('C')
+comp('G')
+comp('pancakes')
