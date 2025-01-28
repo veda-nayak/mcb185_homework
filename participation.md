@@ -31,17 +31,22 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
 	+ Introduced myself to Sophia!
+	+ Total 3 points
 - Week 2
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
 	+ I met Lauren and DQ
+	+ Total 3 points
 - Week 3
 	+ Attended class on Tuesday
 	+ I did an assessmemt
 	+ Attended class on Thursday
 	+ I met someone new! 
 	+ I asked my friend a question about "\n"
+	+ Total 5 points
 - Week 4
+	+ I attended class on Tuesday
+	+ Total 1 points
 - Week 5
 - Week 6
 - Week 7
