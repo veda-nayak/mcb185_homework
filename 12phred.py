@@ -1,5 +1,5 @@
 
-# 0.001 = 1 x 10^-3 = 1e-3 = 1 * 10 ** -3
+# ADD IN THE EDGE CASES
 
 import math
 
