@@ -21,37 +21,57 @@ more than one point per category. There is a maximum of 5 points each week.
 
 ## Log ##
 
-- Demo
-	+ Attended class Tuesday
-	+ Asked a question in class
-	+ Introduced myself to Chris B
-	+ Didn't come to class Thursday to save you from getting sick
-	+ Total 4 points
 - Week 1
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
 	+ Introduced myself to Sophia!
-	+ Total 3 points
+	+ Total 3 points --> 0.3
 - Week 2
 	+ Attended class on Tuesday
 	+ Attended class on Thursday
 	+ I met Lauren and DQ
-	+ Total 3 points
+	+ Total 3 points --> 0.3
 - Week 3
 	+ Attended class on Tuesday
 	+ I did an assessmemt
 	+ Attended class on Thursday
 	+ I met someone new! 
 	+ I asked my friend a question about "\n"
-	+ Total 5 points
+	+ Total 5 points --> 0.5
 - Week 4
 	+ I attended class on Tuesday
 	+ Assessed in class
 	+ Attended class on Thursday
-	+ Total 3 points
+	+ Total 3 points --> 0.3
 - Week 5
+	+ I attended class on Tuesday
+	+ I attended class on Thursday
+	+ Total 2 points --> 0.2
 - Week 6
+	+ I attended class on Tuesday
+	+ I attended class on Thursday
+	+ Total 2 points --> 0.2
 - Week 7
+	+ I attended class on Tuesday
+	+ I did an assesment
+	+ I attended class on Thursday
+	+ Total 3 points --> 0.3
 - Week 8
+	+ I attended class on Tuesday
+	+ I caught a coding bug in class
+	+ I attended class on Thursday
+	+ Total 3 points --> 0.3
 - Week 9
+	+ I attended class on Tuesday
+	+ I did an assesment in class
+	+ I asked a question in class
+	+ I attended class on Thursday
+	+ Total 4 points --> 0.4
 - Week 10
+	+ I attended class on Tuesday
+	+ I did an assesment in class
+	+ I asked a question on discord
+	+ I attended class on Thursday
+	+ Total 4 points --> 0.4
+
+Total points = 
