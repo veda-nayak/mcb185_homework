@@ -58,9 +58,8 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ Total 3 points --> 0.3
 - Week 8
 	+ I attended class on Tuesday
-	+ I caught a coding bug in class
 	+ I attended class on Thursday
-	+ Total 3 points --> 0.3
+	+ Total 2 points --> 0.2
 - Week 9
 	+ I attended class on Tuesday
 	+ I did an assesment in class
@@ -71,7 +70,6 @@ more than one point per category. There is a maximum of 5 points each week.
 	+ I attended class on Tuesday
 	+ I did an assesment in class
 	+ I asked a question on discord
-	+ I attended class on Thursday
-	+ Total 4 points --> 0.4
+	+ Total 3 points --> 0.3
 
-Total points = 
+Total points = 3.0
