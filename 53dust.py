@@ -3,6 +3,8 @@ import argparse
 import mcb185
 import math
 
+
+'''
 parser = argparse.ArgumentParser(description = 'DNA entropy filter.')
 parser.add_argument('fasta', type = str, help = 'name of fasta file')
 parser.add_argument('--size', type = int, default = 4, help = 'window size [%(default)i]')
@@ -44,9 +46,9 @@ for defline, seq in mcb185.read_fasta(arg.fasta):
                 else: 
                     mask[j] = 'N'
 print(''.join(mask))             
-
-
 '''
+
+
 def entropy(win):
     
     print(win.count('A'), win.count('T'), win.count('G'), win.count('C'))
@@ -106,4 +108,3 @@ for defline, seq in mcb185.read_fasta(arg.fasta): # arg.fasta gets you to the na
     mask = ''.join(mask)
     for i in range(0, len(seq), arg.wrap): # another windowing algorithum to print in chunks
         print(mask[1:1+arg.wrap])
-'''
